@@ -1,4 +1,4 @@
-### Hello 👋, I'm Ben!
+# Hello 👋, I'm Ben!
 
 I'm a Full-Stack Web Developer based in Nashville, Tennessee. I have 10+ years of experience in Web Design and Graphic Design. 
 
