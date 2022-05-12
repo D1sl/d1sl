@@ -2,9 +2,7 @@
 
 I'm a Full-Stack Web Developer based in Nashville, Tennessee. I have 10+ years of experience in Web Design and Graphic Design. 
 
-- 📚 I’m currently studying at Vanderbilt 
-- 🌱 I’m currently learning JavaScript
-- 👯 I’m looking to collaborate on ...
+- 📚 I’m currently studying at Vanderbilt, learning JavaScript
 - ⚡ Fun fact: I keep craving peanut butter despite disliking it.
 
 ## Front End
