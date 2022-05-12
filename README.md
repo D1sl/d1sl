@@ -27,7 +27,7 @@ I'm a Full-Stack Web Developer based in Nashville, Tennessee. I have 10+ years o
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ## Contact me:
-You can find me on LinkedIn:
+You can find me on LinkedIn: <br />
 <a href="https://www.linkedin.com/in/benjaminmolini/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Benjamin Molini at LinkedIn" width="100px"/></a>
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=d1sl&theme=highcontrast&show_icons=true&count_private=true)
